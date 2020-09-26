@@ -1,5 +1,5 @@
 # TAD-Conjuntos
-Desenvolvido durante a disciplina de Estrutura de dado.
+Desenvolvido durante a disciplina de Estrutura de dados.
 
 Funções:
 
